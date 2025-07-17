@@ -70,5 +70,5 @@ Es importante ajustar los settings del repositorio para reforzar la revisión y 
 
 Puedes ver un ejemplo de configuración en la siguiente imagen:
 
-<img src="config-pr.png" alt="Configuración de Pull Request" width="600"/>
+<img src="/images/config-pr.png" alt="Configuración de Pull Request" width="600"/>
 
